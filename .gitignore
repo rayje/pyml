@@ -1,1 +1,6 @@
 venv/
+spam/venv/
+spam/data/
+spam/spam/__pycache__/*
+spam/spam/__pycache__/
+*.pyc
